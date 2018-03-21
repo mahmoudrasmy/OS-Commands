@@ -4,3 +4,4 @@ $sudo rm -r mydir  ===> To Delete the entire Directeory
 $sudo systemctl daemon-reload  ===> Reload service
 $sudo systemctl stop service-name  ====> Stop a service
 $sudo systemctl start service-name  ===> start a service 
+$cp -R source destination/  ===> copy the Directory in a recursive way

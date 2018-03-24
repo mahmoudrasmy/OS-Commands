@@ -9,4 +9,4 @@ $cp -R source destination/  ===> copy the Directory in a recursive way
 
 |Command|Descritpion|
 |------|------|
-|sudo netstat -tulpn ``|`` grep :80|verify which process is attached to port 80|
+|sudo netstat -tulpn 8\| grep :80|verify which process is attached to port 80|

@@ -1,4 +1,3 @@
-$sudo netstat -tulpn | grep :80  ==> verify which process is attached to port 80 <br>
 $sudo ssh username@IP -i ===> to connect to the machine with a key <br>
 $sudo rm -r mydir  ===> To Delete the entire Directeory <br>
 -Location of the services in linux /etc/systemd/system/
@@ -10,3 +9,10 @@ $cp -R source destination/  ===> copy the Directory in a recursive way
 |Command|Descritpion|
 |------|------|
 |sudo netstat -tulpn \| grep :80|verify which process is attached to port 80|
+|sudo ssh username@IP -i|to connect to the machine with a key|
+|sudo rm -r mydir|To Delete the entire Directeory|
+|cd /etc/systemd/system/|Location of the services in linux|
+|||
+|||
+|||
+|||

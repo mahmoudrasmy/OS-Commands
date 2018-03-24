@@ -1,5 +1,5 @@
-|Command|                       Descritpion|
-|-------|----------------------------------|
+|Command|Descritpion|
+|-------|-------|
 |sudo netstat -tulpn \| grep :80|verify which process is attached to port 80|
 |sudo ssh username@IP -i|to connect to the machine with a key|
 |sudo rm -r mydir|To Delete the entire Directeory|

@@ -10,5 +10,6 @@
 |cp -R source destination/|copy the Directory in a recursive way|
 |ssh-keygen|To Generate a public key and a private key|
 |ssh ubuntu@IP_of_machine -i ~/.ssh/id_rsa -o ProxyCommand='ssh -W %h:%p -q ubuntu@ProxyIP'|To connect to a machine through a proxy|
+|sudo su -| To convert to sudo without password|
 
 

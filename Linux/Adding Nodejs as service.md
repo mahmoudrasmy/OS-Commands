@@ -10,6 +10,7 @@
 * $cd /etc/init
 * $vi app.conf
 * Add the following script
+		
 		description "node.js server"
 		author      "Foo Bar"
 		

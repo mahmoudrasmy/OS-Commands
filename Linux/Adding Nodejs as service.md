@@ -31,3 +31,5 @@
 			exec /usr//bin/nodejs /var/lib/jenkins/workspace/nodejs-project/app.js >> /var/log/node.log 2>&1
 		
 		end script
+
+ * $sudo start myapp
